@@ -13,7 +13,6 @@ jobs:
         uses: actions/checkout@v3
         with:
           repository: physcodestyle/qa-generator
-          path: platform
       - name: Загрузка контента
         uses: actions/checkout@v3
         with:
@@ -33,11 +32,12 @@ jobs:
             ${{ runner.os }}-build-
             ${{ runner.os }}-
       - name: Установка модулей
-        run: npm ci
+        run: |
+          npm ci
       - name: Сборка XML
         run: |
           cd src
-          ln -s ../../content/*
+          ln -s ../content/*
           ls -al
           npm run build
       - name: Публикация XML
