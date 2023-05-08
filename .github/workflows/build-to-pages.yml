@@ -12,11 +12,11 @@ jobs:
       - name: Загрузка платформы
         uses: actions/checkout@v3
         with:
-          path: src
-      - name: Загрузка платформы
+          repository: physcodestyle/qa-generator
+      - name: Загрузка контента
         uses: actions/checkout@v3
         with:
-          repository: physcodestyle/qa-generator
+          path: src
       - uses: actions/setup-node@v3
         with:
           node-version: 16
