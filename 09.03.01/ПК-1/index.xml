@@ -1,0 +1,2510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- question: category  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Компетенция «ПК-1»</text>
+    </category>
+    <info format="html">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>31</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Где хранится адрес памяти в программе на языке Си?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[стек]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[указатель]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[регистрировать]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[аккумулятор]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>32</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Какая из них является памятью, выделенной программе в шаблоне LIFO?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[стек]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[индекс]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[аккумулятор]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[основание]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>33</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Какая самая базовая энергонезависимая память?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Флэш-память]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[PROM]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[EPROM]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[ROM]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>34</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Какое из следующих запоминающих устройств обеспечивает большую скорость доступа к данным?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[SRAM]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[DRAM]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[EPROM]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[EEPROM]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>35</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Каково назначение адресной шины?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[для передачи данных на чип и с него]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[для выбора указанного чипа]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[для выбора местоположения в микросхеме памяти]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[для выбора цикла чтения/записи]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Объясните механизм работы протокола USB</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p></p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Объясните механизм работы протокола LPT</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p></p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>3</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Объясните механизм работы протокола I2C</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p></p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Объясните механизм работы протокола RS232</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p></p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>5</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Объясните механизм работы протокола PS/2</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p></p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>36</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Для двоичного дерева поиска справедливо следующее</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Дерево может содержать только корень, который не имеет потомков]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Дерево может содержать только корень, но он должен иметь как минимум двух потомков]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Дерево может содержать только корень, но он должен иметь как минимум одного потомка]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Дерево может содержать только листья и не иметь корня]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>37</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Какой поиск описывается следующей фразой «Сначала корень дерева, потом узлы-потомки корня, потом все их потомки?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers></shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Поиск в ширину]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Поиск в глубину]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>38</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Какие языки программирования бывают?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[типизированные]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[нетипизированные (бестиповые)]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[компилируемые]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[интерпретируемые]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[встраиваемые]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[автоматические]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[сложные]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[асимптотические]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[условные]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>39</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Локальные переменные и результат выполнения функции ...</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[копируются в память стека]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[копируются в кучу]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[не копируются в память стека]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[не копируются в кучу]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>40</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Выберете из списка истинные тесты простоты</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[малая теорема Ферма]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[тест Люка — Лемера]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[тест Миллера]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[тест эллиптических кривых]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[тест Ферма]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[тест Соловея-Штрассена]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>41</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Как используются перечисления?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Удобны при написании программ, когда есть ограниченный набор заранее известных значений]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Используются, например, для указания дней недели или цветов светофора]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Позволяют работать только с верхним элементом (добавлять новый или удалять самых верхний)]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Применяется операция push()]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Можно добавлять новый элемент, который впоследствие будет обработан]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>42</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Как используется связный список?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Удобны при написании программ, когда есть ограниченный набор заранее известных значений]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Используются, например, для указания дней недели или цветов светофора]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Используются при выставлении прав пользователей в программе]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Удобно вставлять новый элемент в любое место без перемещения всех последующих элементов]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Каждый элемент «знает (хранит указатель/ссылку) только о следующем или двух ближайших элементах]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>43</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Какая структура данных имеется в виду при употреблении фразы «Левая ветвь всегда идёт к узлу, значение числового маркера которого меньше, правая — к узлу с большим значением?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Двоичное дерево]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Двоичное дерево поиска]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Прошитое двоичное дерево]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Дерево]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>44</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Программа ниже осуществляет ...</p>
+<pre><code class="language-c">unsigned int a = 202; // 1100 1010 (202)
+unsigned int b = 226; // 1110 0010 (226)
+a = a &amp; b; // 1100 0010 (194)
+</code></pre>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Побитовое дополнение]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Сдвиг влево]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Сдвиг вправо]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Побитовое «или»]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Побитовое «и»]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Побитовое исключающего «или»]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>45</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Какой алгоритм из представленных работает так: поместить наибольший элемент массива в конец или наименьший элемент — в его начало</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Сортировка вставкой]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Сортировка выбором]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Сортировка слиянием]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Сортировка пузырьком]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Оцените асимптотическую сложность сверху программы поиска по дереву в глубину (|V| вершин и |E| рёбер)</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>O(|V| + |E|)</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>6</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Оцените асимптотическую сложность сверху программы линейного поиска в массиве</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>O(n)</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>7</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Оцените асимптотическую сложность сверху программы бинарного поиска в массиве</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>O(log(n))</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>8</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Оцените асимптотическую сложность сверху программы сортировки массива вставкой</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>O(n^2)</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>9</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Оцените асимптотическую сложность сверху программы сортировки массива слиянием</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>O(n*log(n))</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>31</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Конструкция select … distinct … предназначена для группировки строк</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Да]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Нет]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>31</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Утилита pg_restore обеспечивает восстановление базы данных MySQL?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Да]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Нет]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>31</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Команда mysql позволят загрузить из дампа базу данных SQLite?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Да]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Нет]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>31</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>В СУБД SQLite данные хранятся в виде «имя поля значение?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Да]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Нет]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>31</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>В основные задачи администрирования СУБД входит задача управления транзакциями сетевых пользователей?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Да]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Нет]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>31</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>DML – часть языка SQL, обеспечивающая выдачу и отзыв разрешений безопасности?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Да]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Нет]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>31</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>DDL – часть языка SQL, отвечающая за определение данных?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Да]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Нет]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>31</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>DCL необходим для выдачи и отзыва разрешений безопасности на объекты баз данных?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Да]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Нет]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>31</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Индексы нужны для сокращения времени поиска полям поиска?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Да]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Нет]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>31</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>SQL является промышленным стандартом межсерверного взаимодействия серверов различных СУБД через Интернет</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Да]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Нет]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>31</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Многие современные СУБД поддерживают поддержку реляционной модели данных?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Да]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Нет]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>31</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Система управления базами данных (СУБД) - совокупность языковых и программных средств, предназначенных для создания, ведения и совместного использования БД многими пользователями?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Да]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Нет]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>31</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Модель данных представляет собой набор конкретных значений, параметров, характеризующих объект, условие, ситуацию или любые другие факторы?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Да]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Нет]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>31</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Тезаурусные модели данных основаны на принципе организации словарей, содержат определенные языковые конструкции и принципы их взаимодействия в заданной грамматике?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Да]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Нет]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="multichoice">
+    <name>
+      <text>31</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Иерархическая модель данных является наиболее простой среди всех даталогических моделей?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Спасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Да]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Нет]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Перечислите и дайте краткую характеристику двух подходов к выбору состава и структуры предметной области при проектировании баз данных.</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<ul>
+  <li>- Функциональный подход - он реализует принцип движения «от задач и применяется тогда, когда заранее известны функции некоторой группы лиц и комплексов задач, для обслуживания информационных потребностей которых создается рассматриваемая БД;</li>
+  <li>- Предметный подход — когда информационные потребности будущих пользователей БД жестко не фиксируются. Они могут быть многоаспектными и весьма динамичными. Мы не можем точно выделить минимальный набор объектов предметной области, которые необходимо описывать.</li>
+</ul>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Что определяют функциональные зависимости в базе данных?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>Функциональные зависимости определяют все возможные состояния базы данных, то есть они отражают те связи между атрибутами, которые присущи реальному объекту, который моделируется с помощью базы данных.</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Что такое первичный ключ отношения?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>Один из всех возможных ключей отношения, который выбран в качестве главного, называют первичным ключом отношения.</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Назовите признаки нахождения отношения во второй нормальной форме.</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>Отношение находится во второй нормальной форме тогда и только тогда, когда оно находится в первой нормальной форме и не содержит неполных функциональных зависимостей непервичных атрибутов от атрибутов первичного ключа.</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Перечислите варианты связей между сущностями в модели «сущность-связь»</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<ul>
+  <li>один-к-одному;</li>
+  <li>один-ко-многим;</li>
+  <li>многие-к-одному;</li>
+  <li>многие-ко-многим.</li>
+</ul>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Какая команда позволяет оптимизировать СУБД MySQL?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>`mysqlcheck`</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Как добавить данные в коллекцию данных MongoDB?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>С помощью операторов `InsertOne()`, `InsertMany()`.</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Как удалить данные из коллекцию данных MongoDB?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>С помощью операторов DeleteOne(), DeleteMany().</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Перечислите агрегатные функции, реализованные в MongoDB?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>`count`, `min`, `max`</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Какая команда обеспечивает резервную копию MongoDB?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>`mongodump`</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Какая команда обеспечивает восстановление резервной копии MongoDB?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>`mongorestore`</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>В каком виде хранит базы данных СУБД SQLite?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>Вся база данных хранится в одном файле на диске под названием «main database file. Во время транзакций, SQLite хранит дополнительную информацию во втором файле: журнал отката (rollback journal), либо, если база работает в режиме WAL, лог-файл с информацией о записях.</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Как работать с базами данныз SQLite?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>Для работы с SQLite, как и любой реляционной базой данных используется язык запросов SQL. Поэтому создать таблицу данных можно при помощи традиционного запроса CREATE TABLE, вставить запись при помощи оператора INSERT, извлечь запись при помощи SELECT, а обновить существующую запись при помощи запроса UPDATE.</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>В каких приложениях СУБД SQLite используется наиболее широко?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>СУБД SQLite применяется для хранения различных данных в смартфонах Android, iPhone.</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>В каких СУБД может хранится база данных Zabbix?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>Сервер и прокси Zabbix поддерживают пять СУБД: IBM DB2; MySQL; Oracle; PostgreSQL; SQLite.</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>26</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Объект научного исследования — это ...</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p></p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>27</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Предмет научного исследования – это ...</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p></p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>28</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Цель научного исследования – это ...</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p></p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>29</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Гипотеза научного исследования – это ...</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p></p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>30</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Назовите метод исследования, основанный на активном и целенаправленном вмешательстве в условия и протекание изучаемого процесса.</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p></p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+</quiz>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- question: category  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Дисциплина «Б1.О.24 Сети и телекоммуникации (эссе)»</text>
+    </category>
+    <info format="html">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Какие протоколы обмена данных применяются в системе «Умный дом»?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>Необходимо назвать минимум те, которые находятся в списке ниже:</p>
+<ul>
+  <li>USB (Universal Serial Bus)</li>
+  <li>ETHERNET</li>
+  <li>Wi-Fi</li>
+  <li>Bluetooth</li>
+  <li>ZigBee</li>
+  <li>Z-Wave</li>
+  <li>HomeKit</li>
+  <li>Matter</li>
+</ul>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Назовите все уровни модели OSI</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p></p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Маршрутизатор (Router) — это устройство, которое ...</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p></p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Коммутатор (Switch) — это устройство, которое ...</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p></p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Концентратор (Hub) — это устройство, которое ...</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p></p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+</quiz>

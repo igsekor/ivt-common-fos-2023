@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- question: category  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Дисциплина «Б2.В.01(У) Учебная практика, проектно-технологическая (эссе)»</text>
+    </category>
+    <info format="html">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>26</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Объект научного исследования — это ...</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p></p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>27</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Предмет научного исследования – это ...</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p></p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>28</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Цель научного исследования – это ...</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p></p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>29</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Гипотеза научного исследования – это ...</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p></p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>30</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Назовите метод исследования, основанный на активном и целенаправленном вмешательстве в условия и протекание изучаемого процесса.</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p></p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+</quiz>

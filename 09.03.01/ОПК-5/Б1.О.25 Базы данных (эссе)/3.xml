@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- question: category  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/3</text>
+    </category>
+    <info format="html">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>3</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Какая задача решается с помощью реиндексации реляционных баз данных?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>При выполнении операций добавления, изменения или удаления записей таблицы сервер SQL автоматически актуализирует её индексы и, через определённое время, данные в индексе будут «рассеяны по базе данных – фрагментированы. Индексы будут содержать страницы, логический порядок данных в которых, основанный на ключевых значениях, будет отличается от физического порядка внутри файла данных. Таким образом, сильно фрагментированные индексы будут приводит к снижению скорости выполнения запросов за счёт увеличения времени получения данных.</p>
+<p>Перестроение индекса (REBUILD) удаляет и создаёт его заново, устраняя фрагментацию и уменьшая место, занимаемой им на диске. Данная операция довольно ресурсоёмка, поэтому её стоит выполнять в нерабочее время.</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+</quiz>

@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- question: category  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Дисциплина «Б1.О.25 Базы данных (эссе)»</text>
+    </category>
+    <info format="html">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Перечислите и дайте краткую характеристику двух подходов к выбору состава и структуры предметной области при проектировании баз данных.</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<ul>
+  <li>- Функциональный подход - он реализует принцип движения «от задач и применяется тогда, когда заранее известны функции некоторой группы лиц и комплексов задач, для обслуживания информационных потребностей которых создается рассматриваемая БД;</li>
+  <li>- Предметный подход — когда информационные потребности будущих пользователей БД жестко не фиксируются. Они могут быть многоаспектными и весьма динамичными. Мы не можем точно выделить минимальный набор объектов предметной области, которые необходимо описывать.</li>
+</ul>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Что определяют функциональные зависимости в базе данных?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>Функциональные зависимости определяют все возможные состояния базы данных, то есть они отражают те связи между атрибутами, которые присущи реальному объекту, который моделируется с помощью базы данных.</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Что такое первичный ключ отношения?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>Один из всех возможных ключей отношения, который выбран в качестве главного, называют первичным ключом отношения.</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Назовите признаки нахождения отношения во второй нормальной форме.</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>Отношение находится во второй нормальной форме тогда и только тогда, когда оно находится в первой нормальной форме и не содержит неполных функциональных зависимостей непервичных атрибутов от атрибутов первичного ключа.</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Перечислите варианты связей между сущностями в модели «сущность-связь»</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<ul>
+  <li>один-к-одному;</li>
+  <li>один-ко-многим;</li>
+  <li>многие-к-одному;</li>
+  <li>многие-ко-многим.</li>
+</ul>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Какая команда позволяет оптимизировать СУБД MySQL?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>`mysqlcheck`</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Как добавить данные в коллекцию данных MongoDB?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>С помощью операторов `InsertOne()`, `InsertMany()`.</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Как удалить данные из коллекцию данных MongoDB?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>С помощью операторов DeleteOne(), DeleteMany().</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Перечислите агрегатные функции, реализованные в MongoDB?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>`count`, `min`, `max`</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Какая команда обеспечивает резервную копию MongoDB?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>`mongodump`</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Какая команда обеспечивает восстановление резервной копии MongoDB?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>`mongorestore`</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>В каком виде хранит базы данных СУБД SQLite?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>Вся база данных хранится в одном файле на диске под названием «main database file. Во время транзакций, SQLite хранит дополнительную информацию во втором файле: журнал отката (rollback journal), либо, если база работает в режиме WAL, лог-файл с информацией о записях.</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Как работать с базами данныз SQLite?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>Для работы с SQLite, как и любой реляционной базой данных используется язык запросов SQL. Поэтому создать таблицу данных можно при помощи традиционного запроса CREATE TABLE, вставить запись при помощи оператора INSERT, извлечь запись при помощи SELECT, а обновить существующую запись при помощи запроса UPDATE.</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>В каких приложениях СУБД SQLite используется наиболее широко?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>СУБД SQLite применяется для хранения различных данных в смартфонах Android, iPhone.</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+  <!-- question:   -->
+  <question type="essay">
+    <name>
+      <text>25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>В каких СУБД может хранится база данных Zabbix?</p>
+]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Cпасибо!]]></text>
+    </generalfeedback>
+    <defaultgrade></defaultgrade>
+    <penalty></penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <filetypeslist></filetypeslist>
+    <graderinfo format="html">
+      <text><![CDATA[<p>Сервер и прокси Zabbix поддерживают пять СУБД: IBM DB2; MySQL; Oracle; PostgreSQL; SQLite.</p>
+]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text><![CDATA[]]></text>
+    </responsetemplate>
+  </question>
+
+</quiz>
